@@ -1,8 +1,6 @@
 # 🛡️ Módulo de Governança e Conformidade
 
-## Resumo do Módulo
-
-Este módulo explora os principais recursos do Azure voltados para **governança, conformidade e proteção de recursos**, garantindo consistência, segurança e aderência a normas regulatórias.
+Este repositório contém meu resumo do módulo Governança e Conformidade, desenvolvido durante o laboratório da DIO, explorando os principais recursos do Azure voltados para **governança, conformidade e proteção de recursos**, garantindo consistência, segurança e aderência a normas regulatórias.
 
 ---
 
